@@ -10,6 +10,12 @@ The idea was to build something using AI on the music and art front. We came up 
 - TensorFlow
 - Magenta
 
+## Repositories
+- [Backend server](https://github.com/team-axios/kalpana-backend)
+- [Micro service](https://github.com/team-axios/kalpana-text-to-music-microservice)
+- [Mobile application](https://github.com/team-axios/kalpana)
+
+
 ## Architecture
 
 ![https://raw.githubusercontent.com/team-axios/kalpana-info/main/HackX.jpeg](https://raw.githubusercontent.com/team-axios/kalpana-info/main/HackX.jpeg)
